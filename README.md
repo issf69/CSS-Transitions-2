@@ -30,7 +30,7 @@ Desenvolvendo um Menu Hamburguer e Morphing Menu com CSS Transitions
   
  ## 💻 Sistemas
 
-Esse projeto foi desenvolvido com as seguintes sistemas:
+Esse projeto foi desenvolvido com os seguintes sistemas:
 
 - 📋Editor de Texto 👉 Vscode
 - 📳 Um navegador de internet
