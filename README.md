@@ -8,7 +8,7 @@ Desenvolvendo um Menu Hamburguer e Morphing Menu com CSS Transitions
   
   
   <p align="center">
-  <img alt="License" src="https://github.com/issf69/CSS-Transitions-2/assets/105497075/98c8c032-fa53-47d7-8433-c05b38743f26"width="200px">
+  <img alt="License" src="https://github.com/issf69/CSS-Transitions-2/assets/105497075/e5cdc246-faf6-4827-b191-d7076e8fb536"width="350px">
    <br>
 
  
