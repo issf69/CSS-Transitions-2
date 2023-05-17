@@ -1,0 +1,3 @@
+📖🛠️ Desenvolvendo Morphing Menu com CSS Transitions
+
+Morphing ou morph é um efeito especial de computação gráfica que permite uma transição ou metamorfose gradual entre duas ou mais imagens, criando a ilusão de transformação de uma coisa em outra. Envolve deformação espacial e modificação de tonalidades, de modo que uma imagem inicial será gradualmente transformada numa imagem final.
